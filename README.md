@@ -48,7 +48,8 @@ This project analyzes pizza sales using PostgreSQL and Power BI to understand sa
 ![Home Page](Home_Page.png)
 
 ### Dashboard Page
-![Pizza Sales Dashboard](pizza_dashboard.jpg)
+![Pizza Sales Dashboard](pizza_dashboard.png)
 ## Author
+
 
 **Shahin Shaik**
